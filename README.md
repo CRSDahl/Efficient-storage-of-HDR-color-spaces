@@ -23,6 +23,3 @@ make
 * **Mean Absolute Error Metrik:** Higher number means smaller error
 * **Normalized Cross Correlation Error:** Higher number means smaller error
 * **Peak Absolute Error:** Lower number means smaller error
-
-## License
-
